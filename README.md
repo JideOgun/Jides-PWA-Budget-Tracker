@@ -1,5 +1,9 @@
 # Jides-PWA-Budget-Tracker
 
+## DEPLOYED APPLICATION
+ - [Deployed Heroku Application](https://fathomless-ocean-98711.herokuapp.com/)
+
+![alt PWA budget tracker](https://res.cloudinary.com/dkmsnpghg/image/upload/v1650635816/iejcxpttbahi3hkwckuk.jpg)
 
 [![License](https://img.shields.io/badge/License-Apache--2.0-red.svg)](https://opensource.org/licenses/unlicense)
 
@@ -71,8 +75,7 @@ Licensed under the Apache License.
 
 ---
 
-## DEPLOYED APPLICATION
- - [Deployed Heroku Application](https://fathomless-ocean-98711.herokuapp.com/)
+
 
 ---
 
